@@ -7,5 +7,17 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "dispositivos":[
+   {
+      "param": "DEVICE_NAME",
+      "ispos": 0,
+      "value": "TF12RUT14"
+   },
+   {
+      "param": "URL_SERVICE",
+      "ispos": 0,
+      "value": "http://p01.hefame.es:8100/sap/bc/gui/sap/its/zlm01/?sap-client=020&sap-language=ES&sap-user=RADIO12&sap-password=radio12HFM&~value_term=TF12RUT14"
+   }
+   ]
 }
